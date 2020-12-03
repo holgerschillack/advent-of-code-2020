@@ -1,4 +1,5 @@
 # advent-of-code-2020
 
-Solutions to `https://adventofcode.com/`
+Solutions to [Advent of Code](https://adventofcode.com/)
+
 
